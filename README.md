@@ -15,5 +15,8 @@ cp .env.example .env
   DB_CONNECTION=sqlite
 
 请差考 https://github.com/WangNingkai/OLAINDEX/wiki
+
+生成镜相
+ docker build -t="linux52/olaindex" .
   
   
