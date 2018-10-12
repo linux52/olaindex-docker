@@ -1,4 +1,6 @@
-# olaindex-docker
+# olaindex-docker  
+  docker pull linux52/olaindex
+  
 本地环境 ubuntu 16.04 
 wget -qO- https://get.docker.com/ | sh  安装docker
 
